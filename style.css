@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+
+    width: 100%;
+    padding: 20px;
+    font-size: 2rem;
+    color: #f8f9fa;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    background: linear-gradient(45deg, #6c757d, #495057);
+    border: 2px solid #212529;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(120deg, #BEE9E8, #5FA8D3);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.calculator {
+    background: #2c3e50;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 8px 15px rgba(27, 73, 101, 0.3);
+    max-width: 400px;
+    width: 100%;
+    border: none;
+
+}
+
+input {
+    width: 100%;
+    padding: 20px;
+    font-size: 2rem;
+    color: #fff;
+    text-align: right;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background: #34495e;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+button {
+    padding: 20px;
+    font-size: 1.5em;
+    border-radius: 10px;
+    background: #34495e;
+    color: #ecf0f1;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.1s ease;
+}
+
+.operator {
+    background: #DBE9EE;
+    color: #212529;
+    font-size: 25px;
+}
+
+.acbtn {
+    background-color: #fe7f2d;
+}
+
+.delbtn {
+    background: #212529;
+    color: #DBE9EE;
+}
+
+.equlBtn {
+    background: #27ae60;
+    color: #DBE9EE;
+    font-size: 30px;
+}
+
+button:hover {
+    background: #3c5770;
+    transform: scale(1.08);
+    color: #DBE9EE;
+}
+
+button:active {
+    transform: scale(0.95);
+}
