@@ -3,7 +3,7 @@ In this project, I created a basic calculator using HTML, CSS, and JavaScript. T
 
 ## Demo
 
-You can view a live demo of the project [here]([(https://rushigadekar2535.github.io/Basic-Calculator/)]).
+You can view a live demo of the project [here](https://rushigadekar2535.github.io/Basic-Calculator/).
 
 ## Features
 performs mathematical operations like – Addition, Subtraction, Multiplication, Division.
