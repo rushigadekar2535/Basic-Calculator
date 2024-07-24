@@ -6,11 +6,8 @@
 3. [Features](#features)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Screenshots](#screenshots)
-7. [Technologies Used](#technologies-used)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+6. [Technologies Used](#technologies-used)
+8. [Contact](#contact)
 
 ---
 
@@ -70,3 +67,11 @@ The Basic Calculator project utilizes the following technologies:
 - CSS: For styling and layout of the calculator..
 - JavaScript: For implementing the calculator's functionality and handling user interactions.
 
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+- **Rushikesh Gadekar**
+- [LinkedIn](https://www.linkedin.com/in/rushikesh-gadekar-464b6922a/) - Connect with me on LinkedIn.
+- [GitHub](https://github.com/rushigadekar2535) - View my projects on GitHub.
+- Email: [rushikesh.gadekar@example.com](mailto:rushikeshgadekar70@gmail.com)
