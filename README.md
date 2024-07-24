@@ -74,4 +74,4 @@ For any questions or feedback, feel free to reach out:
 - **Rushikesh Gadekar**
 - [LinkedIn](https://www.linkedin.com/in/rushikesh-gadekar-464b6922a/) - Connect with me on LinkedIn.
 - [GitHub](https://github.com/rushigadekar2535) - View my projects on GitHub.
-- Email: [rushikesh.gadekar@example.com](mailto:rushikeshgadekar70@gmail.com)
+- Email: [rushikeshgadekar70@gmail.com](mailto:rushikeshgadekar70@gmail.com)
